@@ -11,5 +11,5 @@
         }
     },
     "router": true,
-    "routerHistoryMode": true
+    "routerHistoryMode": false
 }
